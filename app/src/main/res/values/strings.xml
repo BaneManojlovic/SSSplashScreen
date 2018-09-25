@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SSSplashScreen</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="main_activity_screen">Main Activity Screen</string>
+</resources>
